@@ -29,7 +29,7 @@ return(
                 <img src="/images/patates.png" alt="" />
             </div>
             <div className="icon-div-2">
-                <p>Fast Food</p>
+                <p>FastFood</p>
                 <img src="/images/kilo.png" alt="" />
             </div>
             <div className="icon-div-2">
